@@ -1,7 +1,6 @@
 package edu.famu.jobboard.models.jobs;
 
 import com.google.cloud.Timestamp;
-import edu.famu.jobboard.models.AJobs;
 import edu.famu.jobboard.models.applications.Applications;
 import jakarta.annotation.Nullable;
 import lombok.Data;

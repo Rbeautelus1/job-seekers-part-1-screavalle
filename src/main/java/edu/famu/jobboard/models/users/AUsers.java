@@ -2,7 +2,7 @@ package edu.famu.jobboard.models.users;
 
 import com.google.cloud.firestore.annotation.DocumentId;
 
-public class AUsers {
+public abstract class AUsers {
     @DocumentId
     private String userId;
     private String username;

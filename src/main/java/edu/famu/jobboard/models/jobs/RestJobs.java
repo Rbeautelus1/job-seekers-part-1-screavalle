@@ -2,7 +2,6 @@ package edu.famu.jobboard.models.jobs;
 
 import com.google.cloud.Timestamp;
 import com.google.cloud.firestore.DocumentReference;
-import edu.famu.jobboard.models.AJobs;
 import jakarta.annotation.Nullable;
 import lombok.Data;
 import lombok.NoArgsConstructor;
